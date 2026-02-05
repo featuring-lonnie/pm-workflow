@@ -1,0 +1,9 @@
+{
+  "name": "pm-workflow",
+  "version": "1.0.0",
+  "description": "PM팀 워크플로우 자동화. Jira 티켓 관리, PRD 작성, 릴리즈 노트, 스테이크홀더 업데이트. Git 작업 없음.",
+  "author": {
+    "name": "lonnie"
+  },
+  "license": "MIT"
+}
